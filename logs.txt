@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-15T10:14:14.086665100Z</date>
+  <millis>1610705654086</millis>
+  <nanos>665100</nanos>
+  <sequence>0</sequence>
+  <logger>com.company.Nurse</logger>
+  <level>INFO</level>
+  <class>com.company.Internist</class>
+  <method>assignPatient</method>
+  <thread>1</thread>
+  <message>
+Internista o imieniu: Grzegorz, nazwisku: Nowak i numerze uprawnień: pi2, wykonał na pacjencie o danych: 
+Imię: adam
+Nazwisko: nowak
+Data Urodzenia: 1999-12-12
+następujące procedury:  Zastrzyk, Pomiar ciśnienia, Badanie Ogolne, </message>
+</record>
